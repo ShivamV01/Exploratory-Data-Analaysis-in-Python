@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis (EDA) - Submission
+# 📊 Hotel Booking Analysis - Exploratory Data Analysis (EDA) - Submission
 
 This repository contains an Exploratory Data Analysis (EDA) notebook that provides in-depth data profiling, visual exploration, and statistical summarization of a given dataset. The notebook is designed to help uncover patterns, detect outliers, and form hypotheses for further modeling.
 
