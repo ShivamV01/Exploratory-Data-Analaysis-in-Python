@@ -29,7 +29,5 @@ This repository contains an Exploratory Data Analysis (EDA) notebook that provid
 - Pandas
 - Matplotlib
 - Seaborn
-- Plotly (if used)
-- Scikit-learn (for preprocessing or feature analysis, if any)
 
 ---
